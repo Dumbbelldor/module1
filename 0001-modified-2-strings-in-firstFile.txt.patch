@@ -1,0 +1,24 @@
+From e7ecbefe0463352c49fd19dab6796079fd7c73cf Mon Sep 17 00:00:00 2001
+From: Dumbbelldor <luckystrike4571@gmail.com>
+Date: Thu, 25 Nov 2021 14:30:30 +0300
+Subject: [PATCH] modified 2 strings in firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 0b669b6..a7ad2e3 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1 mod
++2 mod
+ 3
+ 4
+ 5
+-- 
+2.24.1.windows.2
+
